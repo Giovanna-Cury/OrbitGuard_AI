@@ -112,12 +112,6 @@ flutter run
 
 ---
 
-## 📚 Projeto Acadêmico
-
-Desenvolvido para o desafio GS1 com foco em soluções inovadoras para prevenção e mitigação dos impactos causados por eventos climáticos extremos.
-
----
-
 ## 📄 Licença
 
 Projeto desenvolvido exclusivamente para fins acadêmicos.
